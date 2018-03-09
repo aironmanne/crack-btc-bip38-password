@@ -1,5 +1,5 @@
 # ezpwatck
-Dictionary attacks combined with manual entries or a second dictionary file to crack BIP38 encrypted btc private keys.
+Dictionary attacks combined with manual input or a second dictionary file to crack BIP38 encrypted btc private keys.
 
 ezdict:
 Standard dictionary attack.
@@ -8,7 +8,7 @@ Standard dictionary attack.
 3. Compile and run.
 
 ezdictcombo:
-Combines dictionary attack with a manually entered password, attempting the combination in both orders.
+Combines dictionary attack with manually entered input, attempting the combination in both orders.
 1. Save password file pw.txt in the program folder.
 2. Edit the BIP38 variable to the BIP38 encrypted wallet key.
 3. Compile and run.
